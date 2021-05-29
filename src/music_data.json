@@ -1,0 +1,83 @@
+[
+ {
+   "id": "0",
+   "title":"King Nothing",
+   "artist": "Metallica",
+   "album": "Load",
+   "year": 1996,
+   "isSoldOut": true,
+   "imageUrl": "https://give-em-hell.com/shop/media/images/info/METALLICAKingNothing.jpg"
+ },
+ {
+    "id": "1",
+    "title":"Epitaph",
+    "artist": "King Crimson",
+    "album": "In The Court Of The Crimson King",
+    "year": 1969,
+    "isSoldOut": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/In_the_Court_of_the_Crimson_King_-_40th_Anniversary_Box_Set_-_Front_cover.jpeg/220px-In_the_Court_of_the_Crimson_King_-_40th_Anniversary_Box_Set_-_Front_cover.jpeg"
+  },
+  {
+    "id": "2",
+    "title":"Siyah (Esved)",
+    "artist": "Neyse",
+    "album": "Neyse",
+    "year": 2011,
+    "isSoldOut": true,
+    "imageUrl": "http://images.genius.com/c8dc8054ae2ab96ab3fe4cafe8584965.500x453x1.jpg"
+  },
+  {
+    "id": "3",
+    "title":"Angelica",
+    "artist": "Anathema",
+    "album": "Eternity",
+    "year": 1996,
+    "isSoldOut": true,
+    "imageUrl": "https://i.ytimg.com/vi/gVxgeDc4D-s/hqdefault.jpg"
+  },
+  {
+    "id": "4",
+    "title":"Living In The Shadows",
+    "artist": "Matthew Perryman Jones",
+    "album": "(Single)",
+    "year": 2016,
+    "isSoldOut": false,
+    "imageUrl": "https://i1.sndcdn.com/artworks-7UDq12hXkwhrJclJ-aQzzRQ-t500x500.jpg"
+  },
+  {
+    "id": "5",
+    "title":"Duş",
+    "artist": "Teoman",
+    "album": "En Güzel Hikayem",
+    "year": 2004,
+    "isSoldOut": false,
+    "imageUrl": "https://images.genius.com/c73787f741f32dac63c6e7acf89ff121.640x640x1.jpg"
+  },
+  {
+    "id": "6",
+    "title":"Black",
+    "artist": "Kari Kimmel",
+    "album": "Black",
+    "year": 2015,
+    "isSoldOut": true,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41Y%2BHVZbDtL._SY355_.jpg"
+  },
+  {
+    "id": "7",
+    "title":"Brother",
+    "artist": "Orphaned Land",
+    "album": "All Is One",
+    "year": 2013,
+    "isSoldOut": true,
+    "imageUrl": "https://img.discogs.com/oqGlKeBKVzbyuzPhnm2B71603b8=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5858215-1404658053-4173.jpeg.jpg"
+  },
+  {
+    "id": "8",
+    "title":"The City Holds My Heart",
+    "artist": "Ghostly Kisses",
+    "album": "(EP)",
+    "year": 2018,
+    "isSoldOut": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/61InbR9GgML._SS500_.jpg"
+  }
+]
