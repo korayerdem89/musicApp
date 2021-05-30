@@ -23,7 +23,7 @@
     "artist": "Neyse",
     "album": "Neyse",
     "year": 2011,
-    "isSoldOut": true,
+    "isSoldOut": false,
     "imageUrl": "http://images.genius.com/c8dc8054ae2ab96ab3fe4cafe8584965.500x453x1.jpg"
   },
   {

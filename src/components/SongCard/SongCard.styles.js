@@ -21,6 +21,6 @@ export default StyleSheet.create({
   padding: 5,
   borderRadius: 5,
   },
-  soldout_title: { color:'red'},
+  soldout_title: { color:'red', fontSize:12,},
   content_container: {flexDirection:'row', justifyContent:'space-between', alignItems:'center'}
 });
